@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/liuzl/ds"
-	"github.com/liuzl/goutil"
+	"github.com/fengjinhai/goutil"
 	"github.com/liuzl/store"
 	"github.com/syndtr/goleveldb/leveldb/util"
 )
